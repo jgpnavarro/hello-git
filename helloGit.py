@@ -1,1 +1,1 @@
-print("Ahora estoy editando el HelloGit.py por segunda vez")
+print("Ahora estoy editando HelloGit por segunda vez")
